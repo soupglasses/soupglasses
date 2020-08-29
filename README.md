@@ -8,6 +8,8 @@
 ### Find me on:
 [<img align="left" alt="@jex@fosstodon.org" width="32px" rel="me" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mastodon.svg" />][mastodon]
 [<img align="left" alt="CodeWars: imsofi" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/codewars.svg" />][codewars]
+[<a rel="me" href="https://fosstodon.org/@jex">Mastodon</a>]
+
 
 [mastodon]: https://fosstodon.org/@jex
 [codewars]: https://www.codewars.com/users/imsofi
