@@ -1,4 +1,6 @@
-### Repositories are mirrored from my [Gitlab account](https://gitlab.com/users/imsofi/projects).
+### Some repositories are mirrored from [my GitLab](https://gitlab.com/users/imsofi/projects).
+
+Too see all my projects, go to [my GitLab account](https://gitlab.com/users/imsofi/)
 
 ## Links:
 [<img align="left" alt="Gitlab: imsofi" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gitlab.svg" />][gitlab]
