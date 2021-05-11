@@ -1,8 +1,4 @@
-## As of August 21, 2020, my repositories and future repositories are only on [my GitLab account](https://gitlab.com/users/imsofi/).
-
-### Some repositories may still be mirrored from [my GitLab](https://gitlab.com/users/imsofi/projects), but do not count on this.
-
-Activity of this account is limited, it exists only to be able to work with others GitHub repositories.
+## As of August 21, 2020, my own repositories are only acessible trough [my GitLab account](https://gitlab.com/users/imsofi/).
 
 ## Links:
 [<img align="left" alt="Gitlab: imsofi" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gitlab.svg" />][gitlab]
