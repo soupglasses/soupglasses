@@ -1,4 +1,4 @@
-**As of July 31, 2021, my own repositories are only acessible trough [my Sourcehut account](https://git.sr.ht/~sofi/).**
+**As of August 21, 2020, my repositories are primarily on my [my GitLab account](https://gitlab.com/users/imsofi/).**
 
 ### Links:
 [<img align="left" alt="Gitlab: imsofi" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gitlab.svg" />][gitlab]
