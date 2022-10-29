@@ -5,12 +5,6 @@ I enjoy messing around with computers and technology.
 My current language interests are **Python, Rust and Nix**.
 
 
-#### Feel free to contact me:
-
-* Discord: [Sofi#4343](https://discord.com/users/130724475111997440)
-* Matrix: [@sofo:matrix.org](https://matrix.to/#/@sofo:matrix.org)
-
-
 #### Stats:
 
 <a href="https://github.com/imsofi#gh-light-mode-only">
