@@ -2,7 +2,7 @@
 
 I enjoy messing around with computers and technology.
 
-My current language interests are **Python, Rust and Nix**.
+My current language interests are **Nix, Elixir, and Ruby!**.
 
 
 #### Stats:
