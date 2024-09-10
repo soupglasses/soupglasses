@@ -1,11 +1,20 @@
-### Heyo, I'm Sofi. 👋
+# Hi, I'm Sofie 👋
 
-I enjoy messing around with computers and technology.
+I'm a software engineering student, currently focusing on **Reproducible Builds**, **Software Architecture**, and **HPC Clusters**.
 
-My current language interests are **Nix, Elixir, and Ruby**!
+### 💻 Languages I Work With
+**C/C++** | **Crystal/Ruby** | **Nix** | **Elixir** | **Shell/Bash** | **ML/OCaml** | **Lua**
 
+### 🛠 Expertise
+- **Reproducible Builds**: Ensuring consistency and repeatability across software builds.
+- **Software Architecture**: Designing scalable, maintainable, and robust systems.
+- **HPC Clusters**: Specializing in both hardware and software for high-performance and efficient cluster designs.
+- **Security**: Contributing to independent security research, including a few **CVE** disclosures.
 
-#### Stats:
+### 🤝 Say Hi or Schedule a Meeting
+I’m always open to new ideas, collaborations, or just a friendly chat! Feel free to [schedule a meeting with me](https://cal.com/soupglasses/coffee) or [drop me a message](https://matrix.to/#/@soup:krab.chat).
+
+---
 
 <a href="https://github.com/soupglasses#gh-light-mode-only">
   <div align="center">
