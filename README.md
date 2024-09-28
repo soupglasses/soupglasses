@@ -1,6 +1,6 @@
 # Hi, I'm Sofie 👋
 
-I'm a software engineering student, currently focusing on **Reproducible Builds**, **Software Architecture**, and **HPC Clusters**.
+I'm a software student, currently interested in **Reproducible Builds**, **Software Architecture**, and **HPC Clusters**.
 
 ### 💻 Languages I Work With
 **C/C++** | **Crystal/Ruby** | **Nix** | **Elixir** | **Shell/Bash** | **ML/OCaml** | **Lua**
