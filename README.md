@@ -5,7 +5,7 @@ I'm a software student, currently interested in **Reproducible Builds**, **Softw
 ### 💻 Languages I Work With
 **C/C++** | **Crystal/Ruby** | **Nix** | **Elixir** | **Shell/Bash** | **ML/OCaml** | **Lua**
 
-### 🛠 Expertise
+### 🛠 Experience
 - **Reproducible Builds**: Ensuring consistency and repeatability across software builds.
 - **Software Architecture**: Designing scalable, maintainable, and robust systems.
 - **HPC Clusters**: Specializing in both hardware and software for high-performance and efficient cluster designs.
