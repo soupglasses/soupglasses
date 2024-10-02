@@ -5,12 +5,6 @@ I'm a software student, currently interested in **Reproducible Builds**, **Softw
 ### 💻 Languages I Work With
 **C/C++** | **Crystal/Ruby** | **Nix** | **Elixir** | **Shell/Bash** | **ML/OCaml** | **Lua**
 
-### 🛠 Experience
-- **Reproducible Builds**: Ensuring consistency and repeatability across software builds.
-- **Software Architecture**: Designing scalable, maintainable, and robust systems.
-- **HPC Clusters**: Specializing in both hardware and software for high-performance and efficient cluster designs.
-- **Security**: Contributing to independent security research, including a few **CVE** disclosures.
-
 ### 🤝 Say Hi or Schedule a Meeting
 I’m always open to new ideas, collaborations, or just a friendly chat! Feel free to [schedule a meeting with me](https://cal.com/soupglasses/coffee) or [drop me a message](https://matrix.to/#/@soup:krab.chat).
 
