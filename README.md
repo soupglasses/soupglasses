@@ -12,6 +12,7 @@ I'm a software student, currently interested in **Reproducible Builds**, **Softw
 | <img title="Elixir" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg"> **Elixir**
 | <img title="Bash" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"> **Bash**
 | <img title="OCaml" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg"> **OCaml**
+| <img title="Python" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> **Python**
 | <img title="Lua" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"> **Lua**
 
 ### 🤝 Say Hi or Schedule a Meeting
