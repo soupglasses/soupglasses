@@ -16,7 +16,7 @@ I'm a software student, currently interested in **Reproducible Builds**, **Softw
 | <img title="Lua" height="16em" width="16em" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">&nbsp;**Lua**
 
 ### 🤝 Say Hi or Schedule a Meeting
-I’m always open to new ideas, collaborations, or just a friendly chat! Feel free to [schedule a meeting with me](https://cal.com/soupglasses/coffee) or [drop me a message](https://matrix.to/#/@soup:krab.chat).
+I’m always open to new ideas, collaborations, or just a friendly chat! Feel free to [schedule a meeting with me](https://cal.com/soupglasses/coffee) or [drop me a message on matrix](https://matrix.to/#/@sofie:fsfe.org).
 
 ---
 
