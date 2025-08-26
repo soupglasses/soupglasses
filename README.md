@@ -20,4 +20,4 @@ I’m always open to new ideas, collaborations, or just a friendly chat! Feel fr
 
 ---
 
-### Missing a repository? Most projects have been migreated to [codeberg.com/soupglasses](https://codeberg.org/soupglasses?tab=repositories) instead of here.
+### Missing a repository? Most projects have been migrated to [codeberg.com/soupglasses](https://codeberg.org/soupglasses?tab=repositories).
