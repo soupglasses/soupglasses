@@ -20,4 +20,23 @@ I’m always open to new ideas, collaborations, or just a friendly chat! Feel fr
 
 ---
 
-### Missing a repository? Most projects have been migrated to [codeberg.com/soupglasses](https://codeberg.org/soupglasses?tab=repositories).
+### Missing a repository? Some projects have been migrated to [codeberg.com/soupglasses](https://codeberg.org/soupglasses?tab=repositories).
+
+---
+
+<div align="center">
+  <a href="https://github.com/steinwurf/dummynet">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=steinwurf&repo=dummynet&theme=github_dark&description_lines_count=2&show_owner=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=steinwurf&repo=dummynet&theme=default&description_lines_count=2&show_owner=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/steinwurf/verify">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=steinwurf&repo=verify&theme=github_dark&description_lines_count=2&show_owner=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=steinwurf&repo=verify&theme=default&description_lines_count=2&show_owner=true" />
+    </picture>
+  </a>
+</div>
